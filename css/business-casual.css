@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lucida Calligraphy';
+  font-family: 'Lora';
   background: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lucida Calligraphy';
+  font-family: 'Raleway';
 }
 
 p {
@@ -20,7 +20,7 @@ p {
 }
 
 .text-faded {
-  color: rgba(54, 94, 66, 0.3);
+  color: rgba(255, 255, 255, 0.3);
 }
 
 .site-heading {
@@ -28,7 +28,7 @@ p {
   margin-bottom: 5rem;
   text-transform: uppercase;
   line-height: 1;
-  font-family: 'Papyrus';
+  font-family: 'Raleway';
 }
 
 .site-heading .site-heading-upper {
@@ -70,11 +70,11 @@ p {
 
 #mainNav {
   background-color: rgba(47, 23, 15, 0.9);
-  font-family: 'Papyrus';
+  font-family: 'Raleway';
 }
 
 #mainNav .navbar-brand {
-  color: #0d4608;
+  color: #e6a756;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -83,7 +83,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #62c287;
+  color: #e6a756;
 }
 
 @media (min-width: 992px) {
