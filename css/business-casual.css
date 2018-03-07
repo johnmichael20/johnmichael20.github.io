@@ -223,15 +223,15 @@ p {
 }
 
 .text-primary {
-  color: #e6a756 !important;
+  color: #473c2d11 !important;
 }
 
 .bg-primary {
-  background-color: #bedceb9c !important;
+  background-color: #bedceb46 !important;
 }
 
 .btn {
-  box-shadow: 0px 3px 3px 0px rgba(33, 37, 41, 0.1);
+  box-shadow: 0px 3px 3px 0px rgba(67, 74, 82, 0.1);
 }
 
 .btn-primary {
@@ -240,7 +240,7 @@ p {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #df902a;
+  background-color: #44362411;
   border-color: #df902a;
 }
 
