@@ -238,7 +238,11 @@ p {
   background-color: #46777149;
   border-color: #e6a756;
 }
+.btn-primary {
+  background-color: #46777149;
+  border-color: #22190e;
 
+}
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background-color: #44362411;
   border-color: #df902a;
